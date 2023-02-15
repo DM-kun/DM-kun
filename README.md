@@ -1,3 +1,6 @@
-### Welcome to my GitHub preview!
+### Welcome to my GitHub!
 ## This is W.I.P lol
-I do FNF stuff and so
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DMMaster636&show_icons=true&theme=minimal)
+
+- I do FNF stuff and so
