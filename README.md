@@ -1,7 +1,7 @@
 ### Welcome to my GitHub!
 ## This is W.I.P lol
 
-[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,lua,gamemakerstudio)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DMMaster636&show_icons=true&theme=nightowl)
 
